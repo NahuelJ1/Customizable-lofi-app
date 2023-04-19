@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className='container'>
       <nav className='container__nav'>
-        <Link to='/home'>
+        <Link to='./index.js'>
           <img src='/assets/icons/lofi-logo.gif' alt='' />
         </Link>
         <div className='nav-menu'>
