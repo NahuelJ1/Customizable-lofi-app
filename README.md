@@ -18,7 +18,7 @@ Download and install Node.js from this link https://nodejs.org/en/download/
 
 ### 2. Clone or download this repo.
 
-On your terminal or cmd, type: `git clone git@github.com:NahuelJ1/Customizable-lofi-website.git`
+On your terminal or cmd, type: `git clone git@github.com:NahuelJ1/Customizable-lofi-app.git`
 
 . On your command line, navigate to root folder and install: `npm install`
 
