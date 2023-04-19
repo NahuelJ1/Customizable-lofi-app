@@ -9,6 +9,7 @@ This project is a clone of Lofi.co and adding some function lick todolist, count
 
 
 # Demo
+https://customizable-lofi-app.vercel.app/
 
 ## How to build and run
 
